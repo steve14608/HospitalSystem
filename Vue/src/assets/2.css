@@ -1,0 +1,67 @@
+
+.main {
+    padding-top: 10px;
+    overflow-y: auto;
+}
+
+.main-container {
+    height: 100%;
+    background-color: #f5f5f5;
+    padding: 0px;
+    padding-bottom: 5px;
+    position: relative;
+    overflow-y: auto;
+}
+
+.main-content {
+    padding-right: 0px;
+    padding-top: 0px;
+}
+
+.sub-container {
+    padding-bottom: 0px;
+}
+
+.main-header {
+    height: 30px;
+    width: 100%;
+}
+
+.main-title {
+    font-size: 30px;
+    font-weight: bold;
+    height: auto;
+}
+
+.sub-title {
+    font-size: 20px;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.sub-content {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    background-color: antiquewhite;
+}
+
+.row {
+    height: 60px;
+}
+
+.col {
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+
+}
+
+.unit {
+    margin-top: auto;
+    margin-bottom: auto;
+    min-width: 100%;
+}
+
+.form-footer {
+    padding-top: 20px;
+}
